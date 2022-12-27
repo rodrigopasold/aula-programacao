@@ -1,82 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ff1c140-fae6-4f77-839f-2c7396c377cc" name="Default Changelist" comment="ok">
-      <change afterPath="$PROJECT_DIR$/.idea/E-CommerceWebsite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contentDetails.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contentDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/cart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/content.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/contetDetails.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/orderPlaced.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/originais/img1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/originais/img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/originais/img3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/originais/img4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/produtos/camisa-branca-tommihilfiger.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/produtos/camisa-cinza.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jQuery3.4.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/.idea/E-CommerceWebsite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/content.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/content.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/contentDetails.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/contentDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/css/cart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/css/content.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/css/contetDetails.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/css/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/css/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/css/orderPlaced.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/img/img1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/img/img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/img/img3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/img/img4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/js/jQuery3.4.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/orderPlaced.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/orderPlaced.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo-3-rodrigo/slider.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orderPlaced.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orderPlaced.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/produtos-web.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/produtos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slider.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="8ff1c140-fae6-4f77-839f-2c7396c377cc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            <state relative-caret-position="28">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -107,7 +32,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -164,15 +89,24 @@
       <option name="presentableId" value="Default" />
       <updated>1671756766387</updated>
       <workItem from="1671756767507" duration="109000" />
-      <workItem from="1672148890026" duration="520000" />
+      <workItem from="1672148890026" duration="1101000" />
     </task>
+    <task id="LOCAL-00001" summary="ok">
+      <created>1672149417458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672149417458</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="629000" />
+    <option name="totallyTimeSpent" value="1210000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1048" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1048" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947916" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -206,8 +140,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        <state relative-caret-position="28">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
